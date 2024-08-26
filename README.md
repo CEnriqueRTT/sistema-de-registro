@@ -4,3 +4,5 @@
 
 Para ejecutar el sistema, debes digitar lo siguiente:
 ```npm install react```
+
+- Nueva información para el sistema
